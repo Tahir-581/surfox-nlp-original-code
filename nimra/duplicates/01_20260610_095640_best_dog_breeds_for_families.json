@@ -1,0 +1,136 @@
+{
+  "source_file": "01_20260610_095640_best_dog_breeds_for_families.json",
+  "duplicate_pair_count": 26,
+  "duplicates": [
+    {
+      "similarity_percent": 100.0,
+      "keep": "Medium-Sized Dogs",
+      "remove": "Medium Sized Dogs"
+    },
+    {
+      "similarity_percent": 96.3,
+      "keep": "Family Members",
+      "remove": "Member Family"
+    },
+    {
+      "similarity_percent": 96.3,
+      "keep": "beaglebeagles",
+      "remove": "beaglesbeagles"
+    },
+    {
+      "similarity_percent": 93.3,
+      "keep": "Small Families",
+      "remove": "Smaller Families"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "breed",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "types",
+      "remove": "type"
+    },
+    {
+      "similarity_percent": 86.6,
+      "keep": "Cavalier King Charles Spanielcavalier",
+      "remove": "Cavalier King Charles Spaniels"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "Best Family Breeds",
+      "remove": "Best Family Dogs"
+    },
+    {
+      "similarity_percent": 81.8,
+      "keep": "companion",
+      "remove": "companionship"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Best Family Dogs",
+      "remove": "Family Dogs"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "13–15",
+      "remove": "12–15"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "considering",
+      "remove": "considerations"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "households",
+      "remove": "Household Rules"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "safety",
+      "remove": "safe"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Ideal Families",
+      "remove": "Small Families"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Family Life",
+      "remove": "Whole Family"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Family Pets",
+      "remove": "Family Settings"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "age-specific",
+      "remove": "Specific Needs"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "guidance",
+      "remove": "guide"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "child-friendly",
+      "remove": "family-friendly"
+    },
+    {
+      "similarity_percent": 75.6,
+      "keep": "Family Activities",
+      "remove": "Enjoy Part Family Activities"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Family Companions",
+      "remove": "Loyal Companion"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "companion",
+      "remove": "Loyal Companion"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "cuddlers",
+      "remove": "toddlers"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "home",
+      "remove": "come"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "shih",
+      "remove": "high"
+    }
+  ]
+}

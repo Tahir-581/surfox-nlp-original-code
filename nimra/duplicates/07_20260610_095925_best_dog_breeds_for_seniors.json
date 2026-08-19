@@ -1,0 +1,121 @@
+{
+  "source_file": "07_20260610_095925_best_dog_breeds_for_seniors.json",
+  "duplicate_pair_count": 23,
+  "duplicates": [
+    {
+      "similarity_percent": 88.9,
+      "keep": "shelters",
+      "remove": "sheltersin"
+    },
+    {
+      "similarity_percent": 87.5,
+      "keep": "perfect",
+      "remove": "perfectly"
+    },
+    {
+      "similarity_percent": 86.7,
+      "keep": "Easily Trained",
+      "remove": "Easily Trainable"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "breeds",
+      "remove": "breeders"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "friendly",
+      "remove": "friend"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "pomeranian",
+      "remove": "pomerarians"
+    },
+    {
+      "similarity_percent": 84.6,
+      "keep": "These Breeds",
+      "remove": "Thebest Breeds"
+    },
+    {
+      "similarity_percent": 82.8,
+      "keep": "Makes Suitable",
+      "remove": "Making Suitable"
+    },
+    {
+      "similarity_percent": 82.6,
+      "keep": "Best Dog Breeds For Seniors",
+      "remove": "Best Breeds Seniors"
+    },
+    {
+      "similarity_percent": 82.1,
+      "keep": "Canine Companions",
+      "remove": "Ideal Canine Companion"
+    },
+    {
+      "similarity_percent": 81.0,
+      "keep": "Various Living Situations",
+      "remove": "Living Situations"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Easier Care",
+      "remove": "Easy Care"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Overall Well-Being",
+      "remove": "Enhances Overall Well-Being"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Taking Care",
+      "remove": "Take Care"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "breeds",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "pet-friendly",
+      "remove": "friendly"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Adult Rescue Dogs",
+      "remove": "Rescue Dogs"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "The17 Best Breeds",
+      "remove": "Best Breeds"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Great Companions",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "moderate",
+      "remove": "Moderate Size"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Easier Care",
+      "remove": "Making Care Easier"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "active",
+      "remove": "attractive"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "suitable",
+      "remove": "sociable"
+    }
+  ]
+}

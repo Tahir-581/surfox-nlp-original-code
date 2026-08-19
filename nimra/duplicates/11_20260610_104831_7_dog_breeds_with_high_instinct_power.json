@@ -1,0 +1,126 @@
+{
+  "source_file": "11_20260610_104831_7_dog_breeds_with_high_instinct_power.json",
+  "duplicate_pair_count": 24,
+  "duplicates": [
+    {
+      "similarity_percent": 100.0,
+      "keep": "Properly Trained",
+      "remove": "Trained Properly"
+    },
+    {
+      "similarity_percent": 94.1,
+      "keep": "High Energy Breeds",
+      "remove": "High Energy Bree"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "know",
+      "remove": "known"
+    },
+    {
+      "similarity_percent": 87.5,
+      "keep": "developed",
+      "remove": "develop"
+    },
+    {
+      "similarity_percent": 87.5,
+      "keep": "protect",
+      "remove": "protector"
+    },
+    {
+      "similarity_percent": 87.0,
+      "keep": "intelligent",
+      "remove": "intelligence"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "focus",
+      "remove": "focused"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "loyal",
+      "remove": "loyalty"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "quickly",
+      "remove": "quick"
+    },
+    {
+      "similarity_percent": 82.6,
+      "keep": "Strong Protective Instinct",
+      "remove": "Protective Instincts"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protective",
+      "remove": "protect"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Often Best",
+      "remove": "Tends Best"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "clear",
+      "remove": "learn"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "steady",
+      "remove": "stay"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Energetic Pups",
+      "remove": "energetic"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "Best For",
+      "remove": "Works Best"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "threats",
+      "remove": "non-threats"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Intelligent Breeds",
+      "remove": "Extremely Intelligent"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "threats",
+      "remove": "traits"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Exceptionally Well",
+      "remove": "exceptional"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Highly Intelligent",
+      "remove": "intelligent"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Intelligent Breeds",
+      "remove": "intelligent"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Great Guard",
+      "remove": "Guard Estates"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "developed",
+      "remove": "devoted"
+    }
+  ]
+}

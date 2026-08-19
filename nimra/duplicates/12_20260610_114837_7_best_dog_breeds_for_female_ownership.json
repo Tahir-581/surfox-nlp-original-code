@@ -1,0 +1,156 @@
+{
+  "source_file": "12_20260610_114837_7_best_dog_breeds_for_female_ownership.json",
+  "duplicate_pair_count": 30,
+  "duplicates": [
+    {
+      "similarity_percent": 95.2,
+      "keep": "Great Danes",
+      "remove": "Great Dane"
+    },
+    {
+      "similarity_percent": 93.8,
+      "keep": "German Shepherdin",
+      "remove": "German Shepherd"
+    },
+    {
+      "similarity_percent": 92.3,
+      "keep": "choice",
+      "remove": "choices"
+    },
+    {
+      "similarity_percent": 91.7,
+      "keep": "Single Women",
+      "remove": "Single Woman"
+    },
+    {
+      "similarity_percent": 90.0,
+      "keep": "protecting",
+      "remove": "protection"
+    },
+    {
+      "similarity_percent": 88.0,
+      "keep": "Smaller Breeds",
+      "remove": "Small Breed"
+    },
+    {
+      "similarity_percent": 87.0,
+      "keep": "companionship",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 85.1,
+      "keep": "Close Emotional Connections",
+      "remove": "Emotional Connection"
+    },
+    {
+      "similarity_percent": 85.1,
+      "keep": "Offers Emotional Connection",
+      "remove": "Emotional Connection"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "living",
+      "remove": "loving"
+    },
+    {
+      "similarity_percent": 82.8,
+      "keep": "Offers Peace Mind",
+      "remove": "Offers Peace"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protecting",
+      "remove": "protect"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protection",
+      "remove": "protect"
+    },
+    {
+      "similarity_percent": 81.2,
+      "keep": "Human Companionship",
+      "remove": "companionship"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "People-Focused Breeds",
+      "remove": "people-focused"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Strong Bonds",
+      "remove": "Lasting Bonds"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "breeds",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "list",
+      "remove": "listed"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "male",
+      "remove": "female"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "shepard",
+      "remove": "shepherd"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "strong",
+      "remove": "strongand"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Larger Breeds",
+      "remove": "Large-Breed Dog"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Deeply Affectionate",
+      "remove": "affectionate"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Preference Terms",
+      "remove": "preference"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "pitbulls",
+      "remove": "bulls"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Best Match",
+      "remove": "Great Match"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Ideal Choice",
+      "remove": "Great Choice"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Larger Breeds",
+      "remove": "Larger Dogs"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "preference",
+      "remove": "prefer"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "preferring",
+      "remove": "prefer"
+    }
+  ]
+}

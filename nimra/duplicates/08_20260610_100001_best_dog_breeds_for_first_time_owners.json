@@ -1,0 +1,161 @@
+{
+  "source_file": "08_20260610_100001_best_dog_breeds_for_first_time_owners.json",
+  "duplicate_pair_count": 31,
+  "duplicates": [
+    {
+      "similarity_percent": 100.0,
+      "keep": "First Time Owners",
+      "remove": "First-Time Owners"
+    },
+    {
+      "similarity_percent": 95.2,
+      "keep": "Larger Dogs",
+      "remove": "Large Dogs"
+    },
+    {
+      "similarity_percent": 92.3,
+      "keep": "canines",
+      "remove": "canine"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "Learn Specific Breed Characteristics",
+      "remove": "Specific Breed Characteristics"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "Smaller Dogs",
+      "remove": "Small Dogs"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "akita",
+      "remove": "akitas"
+    },
+    {
+      "similarity_percent": 88.0,
+      "keep": "Smaller Breed",
+      "remove": "Small Breeds"
+    },
+    {
+      "similarity_percent": 87.5,
+      "keep": "First-Time Parent",
+      "remove": "First-Time Pets"
+    },
+    {
+      "similarity_percent": 84.6,
+      "keep": "low-maintenance",
+      "remove": "maintenance"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "Better Suited",
+      "remove": "Best Suited"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "Low-Maintenance Breed",
+      "remove": "low-maintenance"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Mixed-Breed Dogs",
+      "remove": "mixed-breed"
+    },
+    {
+      "similarity_percent": 81.2,
+      "keep": "First Time Owners",
+      "remove": "First-Time Pets"
+    },
+    {
+      "similarity_percent": 81.2,
+      "keep": "First-Time Pets",
+      "remove": "First-Time Owners"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Perfect Companion",
+      "remove": "Terrific Companion"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Simple Grooming Needs",
+      "remove": "Grooming Needs"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "dog-friendly",
+      "remove": "friendly"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "pup-friendly",
+      "remove": "friendly"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Seven Best Breeds",
+      "remove": "Best Breeds"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Small Breeds",
+      "remove": "Many Breeds"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Border Terrier",
+      "remove": "Broholmer Terrier"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "French Bulldogs",
+      "remove": "English Bulldogs"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "adopt",
+      "remove": "adoption"
+    },
+    {
+      "similarity_percent": 76.5,
+      "keep": "Short Hair Breeds",
+      "remove": "Short Haired Dogs"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Best Breeds",
+      "remove": "Rated Best"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Rated Best",
+      "remove": "Best Suited"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Highly Intelligent",
+      "remove": "intelligent"
+    },
+    {
+      "similarity_percent": 75.7,
+      "keep": "Require Little Brushing",
+      "remove": "Require Little"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Furry Companion",
+      "remove": "companion"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Larger Breeds",
+      "remove": "Larger Dogs"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Tiny Companions",
+      "remove": "companion"
+    }
+  ]
+}

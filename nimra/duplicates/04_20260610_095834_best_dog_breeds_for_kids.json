@@ -1,0 +1,126 @@
+{
+  "source_file": "04_20260610_095834_best_dog_breeds_for_kids.json",
+  "duplicate_pair_count": 24,
+  "duplicates": [
+    {
+      "similarity_percent": 96.0,
+      "keep": "Great Choices",
+      "remove": "Great Choice"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "corgi",
+      "remove": "corgis"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "breed",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 88.0,
+      "keep": "Small Breeds",
+      "remove": "Smaller Breed"
+    },
+    {
+      "similarity_percent": 86.7,
+      "keep": "Active Family",
+      "remove": "Family Activities"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "breed",
+      "remove": "breeder"
+    },
+    {
+      "similarity_percent": 82.6,
+      "keep": "Affectionate Softies",
+      "remove": "Affectionate Personalities"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "delicate",
+      "remove": "dedicated"
+    },
+    {
+      "similarity_percent": 81.0,
+      "keep": "Family Activities",
+      "remove": "Joining Family Activities"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Child-Friendly Breeds",
+      "remove": "child-friendly"
+    },
+    {
+      "similarity_percent": 78.9,
+      "keep": "Miniature Pinschers",
+      "remove": "Miniature Schnauzer"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Sturdy Little Pooch",
+      "remove": "Little Pooch"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Affectionate Softies",
+      "remove": "Affectionate Nature"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Great Choice",
+      "remove": "Perfect Choice"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "slender",
+      "remove": "tender"
+    },
+    {
+      "similarity_percent": 76.6,
+      "keep": "Best Family-Friendly Breeds",
+      "remove": "Family-Friendly Dogs"
+    },
+    {
+      "similarity_percent": 76.5,
+      "keep": "Jack Russells",
+      "remove": "Jack Russell Terriers"
+    },
+    {
+      "similarity_percent": 76.0,
+      "keep": "Bernese Mountain Bichon Frise",
+      "remove": "Bernese Mountain Dogs"
+    },
+    {
+      "similarity_percent": 75.7,
+      "keep": "Family-Friendly Dogs",
+      "remove": "Famously Friendly"
+    },
+    {
+      "similarity_percent": 75.6,
+      "keep": "Affectionate Nature",
+      "remove": "Affectionate Personalities"
+    },
+    {
+      "similarity_percent": 75.5,
+      "keep": "Best Small Breeds Families",
+      "remove": "Best Family-Friendly Breeds"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Best Family-Friendly Breeds",
+      "remove": "Child-Friendly Breeds"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Great Choice",
+      "remove": "Right Choice"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "loving",
+      "remove": "fun-loving"
+    }
+  ]
+}

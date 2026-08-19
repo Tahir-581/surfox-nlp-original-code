@@ -1,0 +1,4677 @@
+{
+  "keyword": "best dog breeds for first time owners",
+  "surfer_id": "16219423",
+  "permalink_hash": "oYkPABFQNEex-RSgvsJJtw6iu-46RwxH",
+  "surfer_link": "https://app.surferseo.com/drafts/s/oYkPABFQNEex-RSgvsJJtw6iu-46RwxH",
+  "location": "United States",
+  "timestamp": "2026-06-15T12:30:27.994207",
+  "status": "success",
+  "nlp_terms": {
+    "terms": [
+      {
+        "term": "best dog breeds for first time owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": false,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "dog breed",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 19,
+          "max": 35
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "first time dog owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "labrador retriever",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "golden retriever",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 17
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "best dog breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 11
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "cavalier king charles spaniels",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 10
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "bernese mountain dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "shih tzu",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "first time owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 12,
+          "max": 22
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bichon frise",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "other dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "intelligent dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "first dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "breed traits",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "other pets",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "small dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dog breeds for first",
+        "ignored": false,
+        "included": true,
+        "is_nlp": false,
+        "target_range": {
+          "min": 5,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "many dog breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "large dog breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "german shepherd",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "easiest dog breed",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "basset hounds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dog owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 8
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "boston terriers",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "time dog owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dog hair",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adult dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "breeds for first time",
+        "ignored": false,
+        "included": true,
+        "is_nlp": false,
+        "target_range": {
+          "min": 6,
+          "max": 10
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "medium sized dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "pet owner",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "rat terrier",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "large breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "certain breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "small breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dog's personality",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "health issues",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "puppy mills",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "other breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "brachycephalic breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "mixed breeds",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "responsible breeder",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "calm demeanor",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "rough collie",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "border collie",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "french bulldog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "minimal grooming",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hip dysplasia",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "regular vet visits",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "food motivated",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "mental stimulation",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "early age",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "grooming needs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "time owners",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 12,
+          "max": 22
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "border terriers",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "chow chows",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "many dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "different living environments",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "larger dogs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "low maintenance",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 26
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "best dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 12
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "active families",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "long walk",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 65,
+          "max": 101
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "easiest dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "breeds for first",
+        "ignored": false,
+        "included": true,
+        "is_nlp": false,
+        "target_range": {
+          "min": 6,
+          "max": 10
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "right breed",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 12
+        },
+        "use_in_heading": true
+      },
+      {
+        "term": "new dog",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great pets",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "nail trimming",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "other animals",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "couch potatoes",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "breed",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 50,
+          "max": 79
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "skin issues",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "regular grooming",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "standard poodle",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "loving companions",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "exercise needs",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "more exercise",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "more training",
+        "ignored": false,
+        "included": true,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "forever home",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "long periods",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "highly intelligent",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "apartment dwellers",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "spending time",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "english bulldogs",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "perfect match",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "high energy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "living space",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "beginner friendly",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "daily brushing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "dental issues",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "intelligence makes",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "moderate amount",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great danes",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "limited space",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "prevent matting",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "high maintenance",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "pets",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 23
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "kids",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "poodles",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "training",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 14,
+          "max": 21
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "grooming",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "tend",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "food",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "owners",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 20,
+          "max": 32
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "strong prey drive",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "prone",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "children",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "exercise",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "beagles",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great first time dogs",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "playful",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "eager",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "house",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "families",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "first time",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 19,
+          "max": 38
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "course",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "energy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 9
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "greyhound",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 20
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "lifestyle",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great choice",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fur",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "lives",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "life",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "super friendly",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "rescue",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "good choice",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "active",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "aggression",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "small size",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "puppies",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "friend",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "shelter",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "perfect choice",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cuddle",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "example",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "temperament",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 17
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cat",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "pup",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "breeder",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "healthy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "intelligent",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great fit",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "shed",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "havanese",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great addition",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "loyal",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "suited",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "walking",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "allergies",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "animals",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "medium",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "more work",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "affectionate",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 17
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hound",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "smart",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "play",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "personality",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "gentle",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "mix",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "week",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "typically",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "whippet",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sense",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "pug",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "stubborn",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "characteristics",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "patience",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "owning",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "lab",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "suffer",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "morning",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "trainable",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "benefit",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "thrive",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "companionship",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "brushing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "spend",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "leash",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "effort",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great options",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "suitable",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "veterinarian",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "room",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "lead",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "watch",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "patient",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "labradors",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "destructive",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "coats",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 27
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "good option",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fleas",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "toy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "idea",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fun",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adoption",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "eat",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "rewarding",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "imagine",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "chill",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "challenging",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "space",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "confident",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bit",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cute",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "expect",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "generally",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "world",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "health",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adopt",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "research",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "person",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "agility",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "huskies",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "unlike",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "moderate",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "intelligence",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "outdoors",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hair",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bark",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "companions",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fantastic",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "curious",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hang",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "country",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "attitude",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "calm",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "miniature",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "prepared",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "prey",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "boxers",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "groomer",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "independent",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "chihuahuas",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "decide",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "stress",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adults",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sweet",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "happen",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sit",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "park",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "yard",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "socialize",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "docile",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "joy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "routine",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "learn",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "deal",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "consideration",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "tons",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "collies",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "maintain",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adaptable",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "stairs",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "ultimately",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "job",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "honest",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "age",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bed",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "energetic",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "note",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "evening",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sensitive",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "happiness",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "terrific",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "trip",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "happy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "tricks",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cavalier",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "exciting",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cost",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "website",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "playtime",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "vary",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "settle",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "focusing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adapt",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "corgis",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "charming",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "plate",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "easygoing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "cheerful",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "additionally",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "confidence",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "papillon",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adventure",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sturdy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sociable",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "tolerant",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "undercoat",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "makes",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 13,
+          "max": 26
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "blog",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "balance",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "resources",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "saturday",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bichons",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "households",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "love",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "ideally",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "preparation",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "friendly",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "outgoing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "attention",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "small",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 9,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "matting",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "stimulation",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "committed",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "trainability",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "vocal",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "monitored",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "adaptability",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "newbies",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "plenty",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "forgiving",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "comments",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "important",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "matches",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "sleek",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "commands",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "choose",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 19
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "understanding",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "require",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "playfulness",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "perfect",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "www",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "lot",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "enjoy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "day",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 20
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "easy",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 9,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "couple",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "difficult",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "care",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "thought",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fit",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "great",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 16
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "biddable",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "mind",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "long",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "first time dog",
+        "ignored": false,
+        "included": false,
+        "is_nlp": false,
+        "target_range": {
+          "min": 4,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "individual",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "planning",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "run",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "means",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "face",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "ideal",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hard",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "considered",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 15
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "ready",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "time",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 27,
+          "max": 50
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "excellent",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "left",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "home",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "size",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 20
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "things",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "people",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "giving",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "find",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "bring",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "social",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "good",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 22,
+          "max": 33
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "recommended",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 11
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "variety",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 8
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "stay",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "follow",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "avoid",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "true",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "short",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 14
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "prevent",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "depends",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "quickly",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "year",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 8,
+          "max": 17
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "work",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 9
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "popular",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "heart",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "specific",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "questions",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "pick",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "general",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "experience",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "area",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fast",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 6
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "read",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "asked",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "agree",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "fact",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "reasons",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "look",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 5,
+          "max": 13
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "feel",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "hands",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "role",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "handle",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "keeping",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "activity",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "standard",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "guide",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "single",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "coming",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "needs",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 17,
+          "max": 31
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "add",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "decision",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "today",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "issues",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "content",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "knowing",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 7,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "taking",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 4,
+          "max": 11
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "check",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "wanted",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 6,
+          "max": 12
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "step",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "options",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "selecting",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "built",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "type",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "ended",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 2,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "offer",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 10
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "list",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "helps",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 3,
+          "max": 7
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "email",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 2
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "information",
+        "ignored": false,
+        "included": false,
+        "is_nlp": true,
+        "target_range": {
+          "min": 1,
+          "max": 1
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "easy to train",
+        "ignored": false,
+        "included": false,
+        "is_nlp": false,
+        "target_range": {
+          "min": 3,
+          "max": 5
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "owning a dog",
+        "ignored": false,
+        "included": false,
+        "is_nlp": false,
+        "target_range": {
+          "min": 1,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "eager to please",
+        "ignored": false,
+        "included": false,
+        "is_nlp": false,
+        "target_range": {
+          "min": 2,
+          "max": 3
+        },
+        "use_in_heading": false
+      },
+      {
+        "term": "breeds like",
+        "ignored": false,
+        "included": false,
+        "is_nlp": false,
+        "target_range": {
+          "min": 2,
+          "max": 4
+        },
+        "use_in_heading": false
+      }
+    ]
+  }
+}

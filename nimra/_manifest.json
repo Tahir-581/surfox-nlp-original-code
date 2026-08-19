@@ -1,0 +1,109 @@
+{
+  "user": {
+    "id": 27,
+    "name": "nimra",
+    "email": "nimra-tester@gmail.com",
+    "role": "content_writer",
+    "created_at": "2026-06-10T09:06:55.206521+05:00"
+  },
+  "exported_at": "2026-06-10T15:15:13.728979",
+  "session_count": 12,
+  "files": [
+    {
+      "filename": "01_20260610_095640_best_dog_breeds_for_families.json",
+      "session_id": "20260610_095640",
+      "keyword": "best dog breeds for families",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:57:21.295618+05:00"
+    },
+    {
+      "filename": "02_20260610_095721_best_small_dog_breeds.json",
+      "session_id": "20260610_095721",
+      "keyword": "best small dog breeds",
+      "result_count": 8,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:58:08.472618+05:00"
+    },
+    {
+      "filename": "03_20260610_095808_best_family_dog_breeds.json",
+      "session_id": "20260610_095808",
+      "keyword": "best family dog breeds",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:58:34.947463+05:00"
+    },
+    {
+      "filename": "04_20260610_095834_best_dog_breeds_for_kids.json",
+      "session_id": "20260610_095834",
+      "keyword": "best dog breeds for kids",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:58:52.109749+05:00"
+    },
+    {
+      "filename": "05_20260610_095852_best_guard_dog_breeds.json",
+      "session_id": "20260610_095852",
+      "keyword": "best guard dog breeds",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:59:11.815103+05:00"
+    },
+    {
+      "filename": "06_20260610_095911_best_big_dog_breeds.json",
+      "session_id": "20260610_095911",
+      "keyword": "best big dog breeds",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T09:59:25.731571+05:00"
+    },
+    {
+      "filename": "07_20260610_095925_best_dog_breeds_for_seniors.json",
+      "session_id": "20260610_095925",
+      "keyword": "best dog breeds for seniors",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T10:00:01.816149+05:00"
+    },
+    {
+      "filename": "08_20260610_100001_best_dog_breeds_for_first_time_owners.json",
+      "session_id": "20260610_100001",
+      "keyword": "best dog breeds for first time owners",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T10:00:23.387174+05:00"
+    },
+    {
+      "filename": "09_20260610_100023_best_dog_breeds_for_apartments.json",
+      "session_id": "20260610_100023",
+      "keyword": "best dog breeds for apartments",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T10:00:49.523634+05:00"
+    },
+    {
+      "filename": "10_20260610_104507_happiest_loyal_companion_dog_breeds.json",
+      "session_id": "20260610_104507",
+      "keyword": "Happiest Loyal Companion Dog Breeds",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T10:45:28.084673+05:00"
+    },
+    {
+      "filename": "11_20260610_104831_7_dog_breeds_with_high_instinct_power.json",
+      "session_id": "20260610_104831",
+      "keyword": "7 Dog Breeds With High Instinct Power",
+      "result_count": 9,
+      "has_merge": true,
+      "created_at": "2026-06-10T10:49:04.178538+05:00"
+    },
+    {
+      "filename": "12_20260610_114837_7_best_dog_breeds_for_female_ownership.json",
+      "session_id": "20260610_114837",
+      "keyword": "7 Best Dog Breeds For Female Ownership",
+      "result_count": 19,
+      "has_merge": true,
+      "created_at": "2026-06-10T11:50:13.192098+05:00"
+    }
+  ]
+}

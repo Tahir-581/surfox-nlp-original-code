@@ -1,0 +1,166 @@
+{
+  "source_file": "10_20260610_104507_happiest_loyal_companion_dog_breeds.json",
+  "duplicate_pair_count": 32,
+  "duplicates": [
+    {
+      "similarity_percent": 90.9,
+      "keep": "akitas",
+      "remove": "akita"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "breed",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "dobermann",
+      "remove": "dobermans"
+    },
+    {
+      "similarity_percent": 88.0,
+      "keep": "Stronger Bond",
+      "remove": "Strong Bonds"
+    },
+    {
+      "similarity_percent": 87.0,
+      "keep": "companions",
+      "remove": "companionship"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "loyal",
+      "remove": "loyalty"
+    },
+    {
+      "similarity_percent": 81.2,
+      "keep": "Loyal Companions",
+      "remove": "Ideal Companions"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Guard Dogs",
+      "remove": "Guide Dogs"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "akita",
+      "remove": "anita"
+    },
+    {
+      "similarity_percent": 78.8,
+      "keep": "Ideal Companions",
+      "remove": "Family Companions"
+    },
+    {
+      "similarity_percent": 78.8,
+      "keep": "Loyal Companions",
+      "remove": "Family Companions"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Form Deep Bond",
+      "remove": "Deep Bond"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "companions",
+      "remove": "companionable"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Deeply Loyal",
+      "remove": "Fiercely Loyal"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Human Companions",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Ideal Companions",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Loyal Companions",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Popular Breeds",
+      "remove": "Popular Pets"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Trusty Companion",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "trustworthy",
+      "remove": "trustworthiness"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Shiba Bulldog",
+      "remove": "bulldogs"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "drummond",
+      "remove": "Drummond Dogs"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Human Companions",
+      "remove": "companionship"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Ideal Companions",
+      "remove": "companionable"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Ideal Companions",
+      "remove": "companionship"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Lifelong Friend",
+      "remove": "Loving Friends"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Loyal Companions",
+      "remove": "companionable"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Ideal Companions",
+      "remove": "Human Companions"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Jack Russell Terrier",
+      "remove": "Jack Russell"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Loyal Companions",
+      "remove": "Human Companions"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "breed",
+      "remove": "ree"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "pugs",
+      "remove": "pups"
+    }
+  ]
+}

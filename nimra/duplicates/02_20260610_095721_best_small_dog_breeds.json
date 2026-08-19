@@ -1,0 +1,166 @@
+{
+  "source_file": "02_20260610_095721_best_small_dog_breeds.json",
+  "duplicate_pair_count": 32,
+  "duplicates": [
+    {
+      "similarity_percent": 96.3,
+      "keep": "Teacup Yorkie",
+      "remove": "Teacup Yorkies"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "corgi",
+      "remove": "corgis"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "Mixed Breed Dogs",
+      "remove": "Mixed Breeds"
+    },
+    {
+      "similarity_percent": 85.2,
+      "keep": "Grooming Considerations",
+      "remove": "Special Grooming Considerations"
+    },
+    {
+      "similarity_percent": 84.8,
+      "keep": "Cocker Spaniel",
+      "remove": "Shih Cocker Spaniel"
+    },
+    {
+      "similarity_percent": 84.6,
+      "keep": "Small Breeds",
+      "remove": "Smallest Breed"
+    },
+    {
+      "similarity_percent": 84.0,
+      "keep": "Cavalier King Charles Spaniel",
+      "remove": "Cavalier King Charles"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "Breed Characteristics",
+      "remove": "characteristics"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "Companion Dogs",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "Brachycephalic Breed",
+      "remove": "brachycephalic"
+    },
+    {
+      "similarity_percent": 81.8,
+      "keep": "Best Small",
+      "remove": "Small Bodies"
+    },
+    {
+      "similarity_percent": 81.8,
+      "keep": "Small Breeds",
+      "remove": "Best Small"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Live Small",
+      "remove": "Small Size"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Small Dogs",
+      "remove": "Small Game Dogs"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "happy",
+      "remove": "yappy"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "varieties",
+      "remove": "varies"
+    },
+    {
+      "similarity_percent": 78.7,
+      "keep": "Require Regular Professional Grooming",
+      "remove": "Require Regular Grooming"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Excellent Pets",
+      "remove": "Make Excellent"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "wonderful",
+      "remove": "Wonderful Pets"
+    },
+    {
+      "similarity_percent": 78.0,
+      "keep": "Living Situation",
+      "remove": "Various Living Situations"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "Grooming Needs",
+      "remove": "Needs Minimal Grooming"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Companion Dogs",
+      "remove": "Looking Companion"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "adorable",
+      "remove": "adore"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "breeds",
+      "remove": "breeder"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "loving",
+      "remove": "looking"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "smallest",
+      "remove": "small"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Best Small",
+      "remove": "Small Balls"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Live Small",
+      "remove": "small-scale"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "small-scale",
+      "remove": "Small Size"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Small Breeds",
+      "remove": "Small Bodies"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Small Carriers",
+      "remove": "Easiest Small Care"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "vets",
+      "remove": "pets"
+    }
+  ]
+}

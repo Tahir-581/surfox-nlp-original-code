@@ -1,0 +1,171 @@
+{
+  "source_file": "09_20260610_100023_best_dog_breeds_for_apartments.json",
+  "duplicate_pair_count": 33,
+  "duplicates": [
+    {
+      "similarity_percent": 100.0,
+      "keep": "Apartment Dwellers",
+      "remove": "apartment-dwellers"
+    },
+    {
+      "similarity_percent": 98.3,
+      "keep": "Cavalier King Charles Spaniels",
+      "remove": "King Charles Cavalier Spaniel"
+    },
+    {
+      "similarity_percent": 97.3,
+      "keep": "Living Small Spaces",
+      "remove": "Small Living Space"
+    },
+    {
+      "similarity_percent": 96.3,
+      "keep": "Limited Spaces",
+      "remove": "Limited Space"
+    },
+    {
+      "similarity_percent": 93.3,
+      "keep": "basenjis",
+      "remove": "basenji"
+    },
+    {
+      "similarity_percent": 92.3,
+      "keep": "Small Spaces",
+      "remove": "Smaller Spaces"
+    },
+    {
+      "similarity_percent": 92.3,
+      "keep": "Yorkshire Terriers",
+      "remove": "Yorkshire Terriersare"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "Small Breeds",
+      "remove": "Smallest Breeds"
+    },
+    {
+      "similarity_percent": 87.8,
+      "keep": "Apartment-Friendly Pets",
+      "remove": "apartment-friendly"
+    },
+    {
+      "similarity_percent": 87.0,
+      "keep": "companionship",
+      "remove": "companions"
+    },
+    {
+      "similarity_percent": 86.7,
+      "keep": "Basset Houndslove",
+      "remove": "Basset Hounds"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "Apartment-Friendly Breed",
+      "remove": "apartment-friendly"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "smoother",
+      "remove": "smooth"
+    },
+    {
+      "similarity_percent": 84.8,
+      "keep": "Becoming Owner",
+      "remove": "Becoming Owner Step"
+    },
+    {
+      "similarity_percent": 84.8,
+      "keep": "Many Moderate Sizes",
+      "remove": "Moderate Sizes"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Floor Space",
+      "remove": "Half Floor Space"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Apartment Living",
+      "remove": "Apartment Life"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Living Space",
+      "remove": "Small Living Space"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "friendly",
+      "remove": "dog-friendly"
+    },
+    {
+      "similarity_percent": 78.8,
+      "keep": "Apartment Living",
+      "remove": "Apartment Setting"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Apartment Life",
+      "remove": "apartment"
+    },
+    {
+      "similarity_percent": 78.3,
+      "keep": "Many Breeds",
+      "remove": "Small Breeds"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Living Small Spaces",
+      "remove": "Living Space"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Living Small Spaces",
+      "remove": "Small Spaces"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Highland Canine Training",
+      "remove": "Canine Training"
+    },
+    {
+      "similarity_percent": 76.6,
+      "keep": "Apartment-Friendly Breed",
+      "remove": "Apartment-Friendly Pets"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Apartment Life",
+      "remove": "Apartment Dwellers"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Apartment Life",
+      "remove": "apartment-friendly"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Apartment Life",
+      "remove": "apartment-dwellers"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Floor Space",
+      "remove": "Indoor Spaces"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "character",
+      "remove": "characteristics"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "shih",
+      "remove": "high"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "sociable",
+      "remove": "suitable"
+    }
+  ]
+}

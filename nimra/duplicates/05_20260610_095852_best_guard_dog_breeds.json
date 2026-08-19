@@ -1,0 +1,196 @@
+{
+  "source_file": "05_20260610_095852_best_guard_dog_breeds.json",
+  "duplicate_pair_count": 38,
+  "duplicates": [
+    {
+      "similarity_percent": 95.2,
+      "keep": "Great Dane",
+      "remove": "Great Danes"
+    },
+    {
+      "similarity_percent": 92.3,
+      "keep": "ensure",
+      "remove": "ensures"
+    },
+    {
+      "similarity_percent": 89.7,
+      "keep": "German Shepard",
+      "remove": "German Shepherd"
+    },
+    {
+      "similarity_percent": 89.5,
+      "keep": "Best Guard Dog Breeds",
+      "remove": "Best Guard Breeds"
+    },
+    {
+      "similarity_percent": 89.4,
+      "keep": "Staffordshire Bull Terrier",
+      "remove": "Staffordshire Terrier"
+    },
+    {
+      "similarity_percent": 88.4,
+      "keep": "Must Properly Socialized",
+      "remove": "Properly Socialized"
+    },
+    {
+      "similarity_percent": 87.5,
+      "keep": "guardian",
+      "remove": "guarding"
+    },
+    {
+      "similarity_percent": 86.7,
+      "keep": "Extremely Loyal",
+      "remove": "Extreme Loyalty"
+    },
+    {
+      "similarity_percent": 84.2,
+      "keep": "considering",
+      "remove": "consider"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "loyalty",
+      "remove": "loyal"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protect",
+      "remove": "protection"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protect",
+      "remove": "protective"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "protectors",
+      "remove": "protect"
+    },
+    {
+      "similarity_percent": 82.4,
+      "keep": "vigilant",
+      "remove": "vigilance"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Blountville Vets",
+      "remove": "blountville"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Family Life",
+      "remove": "Family Lifestyle"
+    },
+    {
+      "similarity_percent": 81.2,
+      "keep": "Best Guard Dogs",
+      "remove": "Best Guard Breeds"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Best Guard Dogs",
+      "remove": "Guard Dogs"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Best Guard Dogs",
+      "remove": "Best Guard"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Protection Dogs",
+      "remove": "protection"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "Smartest Breeds",
+      "remove": "Fifth-Smartest Breed"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "guardian",
+      "remove": "guardianship"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "protection",
+      "remove": "Protection Work"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "protection",
+      "remove": "protective"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "protectors",
+      "remove": "protection"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "safeguarding",
+      "remove": "guarding"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Best Guard Breeds",
+      "remove": "Guard Breed"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "Best Guard Dog Breeds",
+      "remove": "Best Guard Dogs"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "Veterinary Needs",
+      "remove": "veterinary"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "breeder",
+      "remove": "breeds"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "guard",
+      "remove": "guardian"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "guard",
+      "remove": "guarding"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Best Guard",
+      "remove": "Guard Breed"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Looking Guard",
+      "remove": "guarding"
+    },
+    {
+      "similarity_percent": 76.2,
+      "keep": "Well Behaved",
+      "remove": "well-bred"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "Excellent Guard",
+      "remove": "excellent"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "livestock",
+      "remove": "Guard Livestock"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "puppy",
+      "remove": "pup"
+    }
+  ]
+}

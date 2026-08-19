@@ -1,0 +1,111 @@
+{
+  "source_file": "06_20260610_095911_best_big_dog_breeds.json",
+  "duplicate_pair_count": 21,
+  "duplicates": [
+    {
+      "similarity_percent": 92.3,
+      "keep": "canines",
+      "remove": "canine"
+    },
+    {
+      "similarity_percent": 91.7,
+      "keep": "Larger Breeds",
+      "remove": "Large Breed"
+    },
+    {
+      "similarity_percent": 90.9,
+      "keep": "cuties",
+      "remove": "cutie"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "sizes",
+      "remove": "size"
+    },
+    {
+      "similarity_percent": 85.7,
+      "keep": "loyalty",
+      "remove": "royalty"
+    },
+    {
+      "similarity_percent": 83.3,
+      "keep": "loyal",
+      "remove": "loyalty"
+    },
+    {
+      "similarity_percent": 81.5,
+      "keep": "Best Large Breed",
+      "remove": "Large Breed"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "beds",
+      "remove": "breeds"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "loves",
+      "remove": "loved"
+    },
+    {
+      "similarity_percent": 78.6,
+      "keep": "Large Giant Breed",
+      "remove": "Large Breed"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "Awesome Large Breeds",
+      "remove": "Best Large Breed"
+    },
+    {
+      "similarity_percent": 77.8,
+      "keep": "mastiff",
+      "remove": "bullmastiff"
+    },
+    {
+      "similarity_percent": 77.4,
+      "keep": "Larger Breeds",
+      "remove": "Extra-Large Breeds"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "remarkably",
+      "remove": "Remarkably Smart"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Best Large Breed",
+      "remove": "Larger Breeds"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Extra-Large Breeds",
+      "remove": "extra-large"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "Large Breed",
+      "remove": "Extra-Large Breeds"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "High-Quality Protein",
+      "remove": "high-quality"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "also",
+      "remove": "alps"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "beds",
+      "remove": "best"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "giants",
+      "remove": "Giant Mops"
+    }
+  ]
+}

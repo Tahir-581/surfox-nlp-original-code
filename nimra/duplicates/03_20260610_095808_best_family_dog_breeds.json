@@ -1,0 +1,66 @@
+{
+  "source_file": "03_20260610_095808_best_family_dog_breeds.json",
+  "duplicate_pair_count": 12,
+  "duplicates": [
+    {
+      "similarity_percent": 100.0,
+      "keep": "Medium-Sized Dogs",
+      "remove": "Medium Sized Dogs"
+    },
+    {
+      "similarity_percent": 96.3,
+      "keep": "beaglebeagles",
+      "remove": "beaglesbeagles"
+    },
+    {
+      "similarity_percent": 93.3,
+      "keep": "Small Families",
+      "remove": "Smaller Families"
+    },
+    {
+      "similarity_percent": 90.0,
+      "keep": "Best Family Dog Breeds",
+      "remove": "Best Family Breeds"
+    },
+    {
+      "similarity_percent": 88.9,
+      "keep": "breed",
+      "remove": "bred"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "considering",
+      "remove": "considerations"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "households",
+      "remove": "Household Rules"
+    },
+    {
+      "similarity_percent": 80.0,
+      "keep": "safety",
+      "remove": "safe"
+    },
+    {
+      "similarity_percent": 76.9,
+      "keep": "age-specific",
+      "remove": "Specific Needs"
+    },
+    {
+      "similarity_percent": 75.9,
+      "keep": "child-friendly",
+      "remove": "family-friendly"
+    },
+    {
+      "similarity_percent": 75.6,
+      "keep": "Family Activities",
+      "remove": "Enjoy Part Family Activities"
+    },
+    {
+      "similarity_percent": 75.0,
+      "keep": "shih",
+      "remove": "high"
+    }
+  ]
+}

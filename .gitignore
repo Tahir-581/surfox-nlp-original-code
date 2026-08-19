@@ -1,0 +1,82 @@
+# Dependencies and environments
+node_modules/
+.pnpm-store/
+.yarn/
+venv/
+.venv/
+vnev/
+env/
+.venv-*/
+__pycache__/
+*.pyc
+
+# Build artifacts
+.next/
+dist/
+dist_old/
+build/
+out/
+.turbo/
+.cache/
+.vercel/
+.playwright-browsers/
+.local-vaapi/
+.ruff_cache/
+.pytest_cache/
+
+# Media, books, and data dumps
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.pdf
+*.csv
+*.tsv
+*.db
+*.sqlite
+*.sqlite3
+recordings/
+Raw-Recordings/
+partitioned/
+downloaded-pdf-books/
+translated-books/
+Raw-Books/
+books/
+Data/
+output/
+output-*/
+output_*/
+scrapped-websites-data/
+whatsapp_bot_data/
+google_serp_session*/
+selenium_profile/
+content/videos/
+public/videos/
+
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+*credentials*.json
+token_*.json
+client_secret*.json
+google-console-drive/
+
+# Logs and archives
+*.log
+agent.log
+*.zip
+*.tar.gz
+
+# Editor
+.cursor/
+.vscode/
+.DS_Store
+
+# Secrets — never commit env files
+.env
+.env.*
+env.example
+.env.example
