@@ -1,0 +1,28 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+# aiofiles==23.2.1
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+# Scrapling[fetchers] requires playwright>=1.52 (0.3.14 pins 1.56.0)
+playwright>=1.56.0,<2
+scrapling[fetchers]>=0.3.2,<0.4
+langdetect==1.0.9
+requests
+numpy
+rapidfuzz>=3.0.0
+scikit-learn
+
+gliner==0.1.9
+sentence-transformers==2.6.1
+torch
+flair
+# NOTE: Must be new enough for `datasets` (pulled transitively by GLiNER/flair)
+# which imports `huggingface_hub.errors`.
+huggingface_hub>=0.25.0,<2.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+PyJWT==2.8.0
+cors==1.0.1
+keybert
